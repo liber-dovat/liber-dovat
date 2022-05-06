@@ -1,5 +1,7 @@
-### Hi there 👋, my name is Liber Dovat
 
+<h3 align="center">
+Hi there 👋, my name is Liber Dovat
+</h3>
 <h3 align="center">
 I'm a computer engineer currently working as a sysadmin in the <a href="https://www.fing.edu.uy/if" target="blank">Physics Institute</a> of the <a href="https://www.fing.edu.uy" target="blank">University of the Republic - UdelaR (Uruguay)</a>, and also working as support and programmer of frontend, backend and data processing for the <a href="http://les.edu.uy" target="blank">Laboratory of Solar Energy, (Uruguay)</a>.
 </h3>
