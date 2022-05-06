@@ -1,12 +1,16 @@
 ### Hi there 👋, my name is Liber Dovat
 
 <h3 align="center">
-I'm a computer engineer currently working as a sysadmin in the <a href="https://www.fing.edu.uy/if" target="blank">Physics Institute</a> of the <a href="https://www.fing.edu.uy" target="blank">University of the Republic - UdelaR (Uruguay)</a>, and also working as support and programmer of frontend, backend and data processing for the <a href="https://les.edu.uy" target="blank">Laboratory of Solar Energy, (Uruguay)</a>.
+I'm a computer engineer currently working as a sysadmin in the <a href="https://www.fing.edu.uy/if" target="blank">Physics Institute</a> of the <a href="https://www.fing.edu.uy" target="blank">University of the Republic - UdelaR (Uruguay)</a>, and also working as support and programmer of frontend, backend and data processing for the <a href="http://les.edu.uy" target="blank">Laboratory of Solar Energy, (Uruguay)</a>.
 </h3>
 
 <h5 align="center">
 My hobbies include playing the guitar, learning languages (I've studied japanese and french), photography, digital art, reading, among others.
 </h5>
+<!--
+<img height="200px" width="400" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=liber-dovat&theme=radical" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=liber-dovat&count_private=true&theme=tokyonight&show_icons=true" />
+-->
 
 <h3 align="center">You can also find me in:</h3>
 <p align="center">
