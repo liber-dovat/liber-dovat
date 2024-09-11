@@ -4,7 +4,7 @@ Hi there 👋, my name is Liber Dovat
 </h3>
 
 <h3 align="center">
-I'm a computer engineer currently working as an IBM WebSphere Application Server Administrator in the <a href="https://www.dgi.gub.uy" target="blank">General Taxation Directorate</a> of the <a href="https://www.gub.uy/ministerio-economia-finanzas/" target="blank">Ministry of Economy and Finance</a>, and also a programmer for on-site web applications.
+I'm a computer engineer currently working as an IBM WebSphere Application Server Administrator in the <a href="https://www.dgi.gub.uy" target="blank">General Taxation Directorate</a> of the <a href="https://www.gub.uy/ministerio-economia-finanzas/" target="blank">Ministry of Economy and Finance (Uruguay)</a>, and also a programmer for on-site web applications.
 </h3>
 
 <!--
