@@ -14,7 +14,7 @@ I'm a computer engineer currently working as a sysadmin in the <a href="https://
 -->
 
 <h5 align="center">
-My hobbies include playing the guitar, learning languages (I've studied japanese and french), photography, digital art, reading, among others.
+My hobbies include playing the guitar, learning languages (I've studied japanese and french), photography, digital art, reading, videogames, among others.
 </h5>
 <!--
 <img height="200px" width="400" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=liber-dovat&theme=radical" />
